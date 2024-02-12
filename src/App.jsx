@@ -8,7 +8,7 @@ import { pink } from '@mui/material/colors'
 function App() {
   return (
     <>
-      <div>Xin chao</div>
+      <div>trungquandev</div>
       <Button variant="text">Text</Button>
       <Button variant="contained">Contained</Button>
       <Button variant="outlined">Outlined</Button>
